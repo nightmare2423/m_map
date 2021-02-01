@@ -1,4 +1,3 @@
-%待会儿再去选领土，先用那啥的领土
 clear,clf,close all;
 clc;
 load('data.mat');
